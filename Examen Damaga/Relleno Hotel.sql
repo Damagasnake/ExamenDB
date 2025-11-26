@@ -1,0 +1,6 @@
+SELECT * FROM hostelera.hotel;
+INSERT INTO `hostelera`.`hotel` (`idHotel`, `nombreHotel`, `direccion`, `telefonoContacto`, `anioConstruccion`, `idCategoria`) VALUES ('1', 'GlobalStay Madrid Centro', 'Calle Gran Via 10, Madrid, España', '+34 910000001 ', '1998', '3');
+INSERT INTO `hostelera`.`hotel` (`idHotel`, `nombreHotel`, `direccion`, `telefonoContacto`, `anioConstruccion`, `idCategoria`) VALUES ('2', 'GlobalStay Barcelona Mar', 'Passeig Maritim 25, Barcelona, España', '+34 930000002 ', '2005', '4');
+INSERT INTO `hostelera`.`hotel` (`idHotel`, `nombreHotel`, `direccion`, `telefonoContacto`, `anioConstruccion`, `idCategoria`) VALUES ('3', 'GlobalStay Sevilla Historic', 'Calle de las Flores 3, Sevilla, España', '+34 930000003 ', '1985', '2');
+INSERT INTO `hostelera`.`hotel` (`idHotel`, `nombreHotel`, `direccion`, `telefonoContacto`, `anioConstruccion`, `idCategoria`) VALUES ('4', 'GlobalStay Paris Louvre', 'Rue du Louvre 12, París, Francia', '+34 930000004 ', '2010', '4');
+INSERT INTO `hostelera`.`hotel` (`idHotel`, `nombreHotel`, `direccion`, `telefonoContacto`, `anioConstruccion`, `idCategoria`) VALUES ('5', 'GlobalStay Lisboa River', 'Avenida do Tejo 18, Lisboa, Portugal', '+34 930000005 ', '2000', '3');
